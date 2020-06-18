@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI with Mass Assignment "
-date:       2020-06-18 13:49:55 +0000
+date:       2020-06-18 09:49:56 -0400
 permalink:  cli_with_mass_assignment
 ---
 
@@ -12,7 +12,7 @@ The CLI project that I made is based on the Ghibli API. It is listing characters
 I was very scared the day before project week and I pictured myself coding Saturday all night long, but when I showed the project to my cohort lead on Wednesday morning asking him what am I missing, he said it's done. And I was thinking, really? Where did all of the work go then? 
 
 My first concern was just creating the project. I tend to get lost in file structures and I am deeply disturbed by every extension that I don't know. Like what does .travis.yml do in my cli_project folder? Who is travis, and when did I ask for him? I guess it would be time to google it...  
-But after watching my cohort lead's and Avi's videos, soon I was adding exetuable permissions in my terminal with the `chmod +x cli_project` command to my executable file that I previously created and just named it run. I renamed my environment file to environment.rb... I was making sure. After an hour of following along I had a reasonable project that was showing up on my Github page and I think I made around 5 commits in my first half an hour with not a whole lot of content other than my enthusiasm over the fact that it is working. 
+But after watching my cohort lead's and Avi's videos, soon I was adding executable permissions in my terminal with the `chmod +x cli_project` command to my executable file that I previously created and just named it run. I renamed my environment file to environment.rb... I was making sure. After an hour of following along I had a reasonable project that was showing up on my Github page and I think I made around 5 commits in my first half an hour with not a whole lot of content other than my enthusiasm over the fact that it is working. 
 
 The most difficult concept that I faced in programming so far is object relationships so I was worried that how will I build up my program with good object orientation patterns. So after watching even more Data Gem Walkthroughs I decided to start with my CLI class and just put in mock data first to implement the project flow. I feel pretty strongly about if statements and usually recursion, calling methods inside other methods is pretty clear for me. When I miss my scope it is not that hard to debug. So this part was done pretty easily but it felt like playing instead of hard work. Like when you write your first "Hello World" puts, print, or console.log() sentence and codecademy or learn.co congratulates you on writing your first program. 
 
