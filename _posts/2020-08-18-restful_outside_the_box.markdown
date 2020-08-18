@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "RESTful outside the box"
-date:       2020-08-18 18:57:50 +0000
+date:       2020-08-18 14:57:51 -0400
 permalink:  restful_outside_the_box
 ---
 
