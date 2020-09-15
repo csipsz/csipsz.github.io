@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Front End Philosophers"
-date:       2020-09-15 17:14:39 +0000
+date:       2020-09-15 13:14:40 -0400
 permalink:  the_front_end_philosophers
 ---
 
